@@ -8,3 +8,9 @@ D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcor
 D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
 D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
 D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.json
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.runtimeconfig.dev.json
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CopyComplete
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.genruntimeconfig.cache

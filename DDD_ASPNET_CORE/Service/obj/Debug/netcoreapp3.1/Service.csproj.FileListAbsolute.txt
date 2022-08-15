@@ -8,3 +8,6 @@ D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Service\obj\Debug\netcoreap
 D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
 D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Service\obj\Debug\netcoreapp3.1\Service.dll
 D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

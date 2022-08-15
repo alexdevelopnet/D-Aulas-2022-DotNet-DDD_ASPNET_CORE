@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "QWwdgK/V+yUKUWVJL2Os0CnOrRFOAUWs3Hbhyny6XzzWqsKmCMHut/5pXfTS3ThA1etzUd9dBjlB+yzm0FbMVQ==",
+  "dgSpecHash": "+m1AvZtE8yJFwETQnukfjK4ByDWeBCJylKFcksRzF6WopFZpTLXJelUGW7+0/puqGNBS8Vyo0YbA8TuAYUlDBg==",
   "success": true,
   "projectFilePath": "D:\\Aulas\\2022\\DotNet\\DDD_ASPNET_CORE\\DDD_ASPNET_CORE\\Service\\Service.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\FamiliaFeitoza\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\FamiliaFeitoza\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\FamiliaFeitoza\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.1\\fluentvalidation.aspnetcore.9.5.1.nupkg.sha512",
+    "C:\\Users\\FamiliaFeitoza\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.1\\fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
+    "C:\\Users\\FamiliaFeitoza\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\FamiliaFeitoza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\FamiliaFeitoza\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

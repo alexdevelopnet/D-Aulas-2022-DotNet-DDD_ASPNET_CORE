@@ -1,0 +1,10 @@
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.deps.json
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.AssemblyReference.cache
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfoInputs.cache
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.AssemblyInfo.cs
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.csproj.CoreCompileInputs.cache
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Aulas\2022\DotNet\DDD_ASPNET_CORE\DDD_ASPNET_CORE\Infra.Data\obj\Debug\netcoreapp3.1\Infra.Data.pdb

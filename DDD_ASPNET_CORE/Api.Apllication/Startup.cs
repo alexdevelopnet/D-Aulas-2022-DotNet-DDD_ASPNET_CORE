@@ -1,11 +1,19 @@
+using Api.Apllication.Models;
+using AutoMapper;
+using Domain.Entities;
+using Domain.Interfaces;
+using Infra.Data.Context;
+using Infra.Data.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Service.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,6 +33,22 @@ namespace Api.Apllication
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            services.AddDbContext<SqlServerContext>(options =>
+            {
+                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnect"));
+            });
+
+            services.AddScoped<IBaseRepository<User>, BaseRepository<User>>();
+            services.AddScoped<IBaseService<User>, BaseService<User>>();
+
+            services.AddSingleton(new MapperConfiguration(config =>
+            {
+                config.CreateMap<CreateUserModel, User>();
+                config.CreateMap<UpdateUserModel, User>();
+                config.CreateMap<User, UserModel>();
+            }).CreateMapper());
+
             services.AddControllers();
         }
 
